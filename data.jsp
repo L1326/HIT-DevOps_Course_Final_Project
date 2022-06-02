@@ -2,7 +2,7 @@
 <%@ page import="java.text.*,java.util.*" %>
 <HTML>
 <HEAD>
-<TITLE>DALL-E 2 Project</TITLE>
+<TITLE>DALL-E 2 Project 2</TITLE>
 </HEAD>
 <BODY BGCOLOR="5b97a3">
 <CENTER>
